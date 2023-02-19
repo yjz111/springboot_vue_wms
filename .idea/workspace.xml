@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/wms/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/wms/common/Result.java" afterDir="false" />
+    <list default="true" id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="docker">
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/com/wms/common/Result.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,8 +139,23 @@
       <workItem from="1676346075459" duration="7974000" />
       <workItem from="1676362177287" duration="2757000" />
       <workItem from="1676365385446" duration="5412000" />
-      <workItem from="1676600976947" duration="36759000" />
+      <workItem from="1676600976947" duration="37067000" />
     </task>
+    <task id="LOCAL-00001" summary="docker">
+      <created>1676799592546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676799592546</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docker">
+      <created>1676799775370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676799775370</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,5 +165,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/wms_web" />
     </ignored-roots>
+    <MESSAGE value="docker" />
+    <option name="LAST_COMMIT_MESSAGE" value="docker" />
   </component>
 </project>
