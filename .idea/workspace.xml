@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/wms-web" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/src/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Li7gaH83BBf0jctCdOTi7Uy0RA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "/Users/yjz/Desktop/springboot_vue_wms/wms-web/src/components/GoodEcharts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.25632185",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "de715d4979bbe0a778bb9a23267dce51",
+    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wms-web/src/components/GoodEcharts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wms-web/src/components" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wms.common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.serve">
+    <configuration name="CodeGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wms.common.CodeGenerator" />
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wms.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wms.common.CodeGenerator" />
+      <module name="wms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wms.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="wms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wms.WmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/wms-web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CodeGenerator" />
+      <item itemvalue="Application.CodeGenerator (1)" />
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.WmsApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CodeGenerator" />
+        <item itemvalue="Application.CodeGenerator (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="" />
+      <created>1676342160182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676342160182</updated>
+      <workItem from="1676342161429" duration="951000" />
+      <workItem from="1676343180107" duration="2818000" />
+      <workItem from="1676346075459" duration="7974000" />
+      <workItem from="1676362177287" duration="2757000" />
+      <workItem from="1676365385446" duration="5412000" />
+      <workItem from="1676600976947" duration="33186000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/wms_web" />
+    </ignored-roots>
+  </component>
+</project>
