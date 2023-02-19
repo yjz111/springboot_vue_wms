@@ -1,7 +1,6 @@
 package com.wms.common;
 
 import lombok.Data;
-import sun.jvm.hotspot.oops.ObjectHeap;
 @Data
 public class Result {
 

@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/wms-web" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms-web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms-web/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wms-web/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/wms/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/wms/common/Result.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +64,7 @@
       <recent name="$PROJECT_DIR$/wms-web/src/components/GoodEcharts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/wms-web/src/components" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -142,7 +141,7 @@
       <workItem from="1676346075459" duration="7974000" />
       <workItem from="1676362177287" duration="2757000" />
       <workItem from="1676365385446" duration="5412000" />
-      <workItem from="1676600976947" duration="33186000" />
+      <workItem from="1676600976947" duration="36759000" />
     </task>
     <servers />
   </component>
