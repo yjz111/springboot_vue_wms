@@ -4,21 +4,74 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="docker">
-      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/wms/target/classes/com/wms/common/Result.class" afterDir="false" />
+    <list default="true" id="b8693f03-7a64-469d-9049-1e0161530aad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_33.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_44.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms-web/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/wms-web/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/java/com/wms/entity/Goodstype.java" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/java/com/wms/entity/Goodstype.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/main/resources/mapper/GoodstypeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/main/resources/mapper/GoodstypeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/src/sql/table.txt" beforeDir="false" afterPath="$PROJECT_DIR$/wms/src/sql/table.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/WmsApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/AutoFillMetaInfoHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/CodeGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/CodeGenerator$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/CodeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/MybatisPlusConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/QueryPageParam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/common/Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/GoodsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/GoodstypeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/MenuController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/RecordController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/StorageController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/Goodstype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/RecordRes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/Storage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/entity/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/GoodsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/GoodstypeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/MenuMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/RecordMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/StorageMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/GoodsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/GoodstypeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/MenuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/RecordService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/StorageService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/GoodsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/GoodstypeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/MenuServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/RecordServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/StorageServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/com/wms/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/GoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/GoodstypeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/MenuMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/RecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/StorageMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/classes/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/test-classes/com/wms/WmsApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/target/wms-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wms/wms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wms/wms.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Vue Single File Component" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,8 +79,14 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Li7gaH83BBf0jctCdOTi7Uy0RA" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PoEbdgCdfEYMXSXQjVoX6L35H3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,62 +99,27 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "/Users/yjz/Desktop/springboot_vue_wms/wms-web/src/components/GoodEcharts",
+    "last_opened_file_path": "/Users/a58/Desktop/springboot_vue_wms",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.25632185",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "de715d4979bbe0a778bb9a23267dce51",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "settings.nodejs",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/wms-web/src/components/GoodEcharts" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/wms-web/src/components" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.wms.common" />
-    </key>
-  </component>
-  <component name="RunManager" selected="npm.serve">
-    <configuration name="CodeGenerator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wms.common.CodeGenerator" />
-      <module name="wms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wms.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.wms.common.CodeGenerator" />
-      <module name="wms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.wms.common.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="WmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="wms" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.wms.WmsApplication" />
@@ -103,69 +127,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/wms-web/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="serve" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Application.CodeGenerator" />
-      <item itemvalue="Application.CodeGenerator (1)" />
-      <item itemvalue="npm.serve" />
-      <item itemvalue="Spring Boot.WmsApplication" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.CodeGenerator" />
-        <item itemvalue="Application.CodeGenerator (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ec29b167-c65e-4dd9-9e29-187f5eb60cf7" name="Changes" comment="" />
-      <created>1676342160182</created>
+      <changelist id="b8693f03-7a64-469d-9049-1e0161530aad" name="Changes" comment="" />
+      <created>1684115106801</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1676342160182</updated>
-      <workItem from="1676342161429" duration="951000" />
-      <workItem from="1676343180107" duration="2818000" />
-      <workItem from="1676346075459" duration="7974000" />
-      <workItem from="1676362177287" duration="2757000" />
-      <workItem from="1676365385446" duration="5412000" />
-      <workItem from="1676600976947" duration="37067000" />
+      <updated>1684115106801</updated>
+      <workItem from="1684115108420" duration="16763000" />
     </task>
-    <task id="LOCAL-00001" summary="docker">
-      <created>1676799592546</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676799592546</updated>
-    </task>
-    <task id="LOCAL-00002" summary="docker">
-      <created>1676799775370</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1676799775370</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$/wms_web" />
-    </ignored-roots>
-    <MESSAGE value="docker" />
-    <option name="LAST_COMMIT_MESSAGE" value="docker" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

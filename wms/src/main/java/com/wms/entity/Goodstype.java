@@ -19,7 +19,6 @@ import lombok.EqualsAndHashCode;
  */
 @Data
 @EqualsAndHashCode(callSuper = false)
-@TableName("goodsType")
 @ApiModel(value="Goodstype对象", description="")
 public class Goodstype implements Serializable {
 

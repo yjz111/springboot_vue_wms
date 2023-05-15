@@ -3,7 +3,7 @@
 <mapper namespace="com.wms.mapper.GoodstypeMapper">
 
     <select id="pageCC" resultType="com.wms.entity.Goodstype">
-        select * from Goodstype ${ew.customSqlSegment}
+        select * from goodsType ${ew.customSqlSegment}
     </select>
     <!-- 通用查询映射结果 -->
     <resultMap id="BaseResultMap" type="com.wms.entity.Goodstype">
